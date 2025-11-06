@@ -1,0 +1,4 @@
+From the text below, pull out the **key sentences** (unchanged) that capture the core meaning:
+{content}
+
+Key sentences:
