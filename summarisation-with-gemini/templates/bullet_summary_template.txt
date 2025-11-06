@@ -1,0 +1,4 @@
+Summarise the following document by providing **bullet points** (•) capturing major points:
+{content}
+
+Bullets:
