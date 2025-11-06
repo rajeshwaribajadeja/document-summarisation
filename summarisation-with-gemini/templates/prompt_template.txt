@@ -1,0 +1,4 @@
+Summarise the following document in prose:
+{content}
+
+Your summary:
